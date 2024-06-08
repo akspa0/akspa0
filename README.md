@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akspa0
 - 👀 I’m interested in AI, Data Analysis, productivity improvement, audio separation, audio mixing, automated workflows, video gaming
-- 🌱 I’m currently attempting to learn python, bash scripting, machine learning techniques
+- 🌱 I’m currently attempting to rebuild pre-alpha World of Warcraft! https://github.com/akspa0/parp
 - I'm working on audio restoration and remixing using AI tools and python scripts.
 - My patreon: https://www.patreon.com/madhousemilitia
 <!---
