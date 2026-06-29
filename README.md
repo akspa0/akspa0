@@ -1,7 +1,9 @@
-- Hi, I’m @akspa0
-- I’m interested in AI, Data Analysis, productivity improvement, audio separation, audio mixing, automated workflows, video gaming
-- I’m currently attempting to rebuild pre-alpha World of Warcraft - https://github.com/akspa0/parp
-- I've built a tool for parsing lots of strange/unused World of Warcraft files (C#, both a library and cli tool) 
-- I built a neat tool for processing any audio data into context-rich transcripts, image and video outputs via ComfyUI, automated audio editing, and much more (Python) - https://github.com/akspa0/The-Machine
+- Hi, I’m Akspa!
+- I've built the only universal World of Warcraft viewer in modern dotnet 10, for versions 0.5.3 through 4.0.0! [!(WoW-Viewer)](https://github.com/akspa0/parp-tools/) (with varying level s of compatibility that is being improved)
+- I'm interested in SYSTEMS ENGINEERING - ML/AI model architectures, teaching convergence across image and raw data domains 
+- I've built complex training pipelines for game terrain restoration from single image files as the only input.
+- I've built complex tooling to handle all the data signals a World of Warcraft map or game objects can provide.
+- I'm self-driven
+- Open to donations: paypal.me/akspa
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=akspa0)](https://git.io/streak-stats)
